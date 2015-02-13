@@ -153,7 +153,7 @@ function open{
 # quick directory changes
 # ============================
 
-function projects{ cd \Projects }
+function code{ cd $HOME\code }
 function dl { cd $HOME\Downloads }
 function dtop { cd $HOME\Desktop }
 function prog { cd "C:\Program Files" }
